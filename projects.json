@@ -1,0 +1,50 @@
+[
+  {
+    "id": "modern-office-complex",
+    "title": "Modern Office Complex",
+    "description": "A sustainable office complex featuring innovative design and green spaces.",
+    "fullDescription": "The design for this modern office complex represents a new approach to workplace architecture. The building features a composition of two intersecting volumes: a transparent glass structure that promotes natural light and an innovative \"floating\" concrete volume that houses collaborative spaces. The project emphasizes sustainability and employee well-being through integrated green spaces and state-of-the-art environmental systems.",
+    "image": "https://images.unsplash.com/photo-1545579133-99bb5ab189bd?auto=format&fit=crop&q=80",
+    "technologies": ["Sustainable Design", "Green Building", "Smart Systems"],
+    "type": "Company",
+    "location": "Munich, Germany",
+    "client": "Tech Innovation Corp",
+    "year": "2023",
+    "status": "Under Construction",
+    "size": "25,000m²",
+    "category": "Commercial",
+    "collaborators": "MEP Engineers Ltd., Green Systems Co., Acoustic Solutions"
+  },
+  {
+    "id": "cultural-center",
+    "title": "Cultural Arts Center",
+    "description": "A dynamic cultural hub that bridges traditional and contemporary architecture.",
+    "fullDescription": "This cultural center serves as a bridge between historical context and contemporary design. The building's form responds to its urban setting while creating distinctive spaces for various forms of artistic expression. The design incorporates advanced acoustic solutions and flexible spaces that can adapt to different types of performances and exhibitions.",
+    "image": "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&q=80",
+    "technologies": ["Acoustic Design", "Flexible Spaces", "Cultural Integration"],
+    "type": "Academic",
+    "location": "Paris, France",
+    "client": "City of Paris",
+    "year": "2022",
+    "status": "Completed",
+    "size": "15,000m²",
+    "category": "Cultural",
+    "collaborators": "Acoustic Design Ltd., Structural Innovations, Light & Space Co."
+  },
+  {
+    "id": "eco-residential",
+    "title": "Eco Residential Complex",
+    "description": "Sustainable living spaces that harmonize with the natural environment.",
+    "fullDescription": "This residential complex redefines sustainable living through its innovative use of natural materials and energy-efficient systems. The design creates a harmonious relationship between indoor and outdoor spaces, with each unit benefiting from natural ventilation and views of the surrounding landscape. The project includes community gardens and shared spaces that foster social interaction.",
+    "image": "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&q=80",
+    "technologies": ["Green Architecture", "Sustainable Materials", "Energy Efficiency"],
+    "type": "Personal",
+    "location": "Copenhagen, Denmark",
+    "client": "Green Living Development",
+    "year": "2023",
+    "status": "Design Development",
+    "size": "30,000m²",
+    "category": "Residential",
+    "collaborators": "Sustainability Consultants, Landscape Architects, Energy Systems Ltd."
+  }
+]
