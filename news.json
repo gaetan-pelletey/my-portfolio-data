@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Graduated from UC Berkeley",
+    "date": "May 2023",
+    "description": "Successfully completed Master's degree in Urban Planning with honors from UC Berkeley.",
+    "content": "Successfully completed my Master's degree in Urban Planning at UC Berkeley, graduating with honors. My thesis focused on sustainable urban development and the integration of green spaces in metropolitan areas. The research involved extensive analysis of successful urban renewal projects across major cities and their impact on community well-being.\n\nDuring my time at Berkeley, I had the opportunity to work with leading experts in the field and participate in several groundbreaking projects. This experience has significantly shaped my approach to urban planning and reinforced my commitment to creating sustainable, livable cities.",
+    "image": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Graduated from Norman Foster Institute",
+    "date": "December 2023",
+    "description": "Completed specialized program in Sustainable Urban Development at the Norman Foster Institute.",
+    "content": "Completed an intensive specialized program in Sustainable Urban Development at the prestigious Norman Foster Institute. The program focused on innovative approaches to urban planning and sustainable architecture. Working directly with industry leaders, I developed new perspectives on integrating technology with traditional architectural principles.\n\nThe program culminated in a collaborative project that proposed solutions for urban challenges in developing cities. Our team's proposal for sustainable transportation infrastructure received recognition from the institute's board of directors.",
+    "image": "https://images.unsplash.com/photo-1584967918940-a7d51b064268?auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Launching Urban Data Company",
+    "date": "March 2024",
+    "description": "Founded innovative startup focusing on data-driven urban planning solutions.",
+    "content": "Excited to announce the launch of my new venture focusing on data-driven urban planning solutions. This company combines my passion for architecture with cutting-edge technology to create more efficient and sustainable urban spaces. We're developing innovative tools that help city planners and architects make more informed decisions based on real-time data and community needs.\n\nOur first project involves creating a comprehensive digital platform that analyzes urban development patterns and provides actionable insights for sustainable growth. We're currently working with several municipalities to implement pilot programs.",
+    "image": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?auto=format&fit=crop&q=80"
+  }
+]
