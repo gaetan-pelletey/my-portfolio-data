@@ -1,5 +1,6 @@
 {
   "id": "cultural-center",
+
   "gallery": [
     {
       "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80",
@@ -18,6 +19,7 @@
       "caption": "Green roof garden and recreational area"
     }
   ],
+
   "sections": [
     {
       "title": "Design Philosophy",
@@ -25,17 +27,25 @@
       "image": "https://images.unsplash.com/photo-1545579133-99bb5ab189bd?auto=format&fit=crop&q=80",
       "imagePosition": "right"
     },
+
     {
       "title": "Sustainable Features",
       "content": "Sustainability is at the core of this project, with numerous features integrated into the design. The building employs a sophisticated rainwater harvesting system, solar panels covering 60% of the roof area, and a ground-source heat pump system.\n\nThe green roof not only provides insulation but also serves as a recreational space for employees, promoting wellbeing and connection with nature. The facade features smart glass that automatically adjusts its opacity based on sunlight intensity.",
       "image": "https://images.unsplash.com/photo-1481660471672-28a88967efdc?auto=format&fit=crop&q=80",
       "imagePosition": "left"
     },
+
     {
       "title": "Interior Innovation",
       "content": "The interior spaces are designed to promote collaboration while respecting the need for focused work. The open floor plan is complemented by acoustic pods and meeting rooms of various sizes. A central atrium brings natural light deep into the building and serves as the main circulation space.\n\nFlexible furniture systems allow teams to reconfigure spaces based on their needs, while integrated technology supports both in-person and remote collaboration.",
       "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&q=80",
       "imagePosition": "right"
     }
-  ]
+  ],
+
+  "shapediver": {
+    "url": "https://viewer.shapediver.com/YOUR-MODEL-ID",
+    "height": 850,
+    "caption": "Parametric facade system driven by environmental conditions"
+  }
 }
