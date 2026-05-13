@@ -43,9 +43,10 @@
     }
   ],
 
-  "shapediver": {
-    "url": "https://viewer.shapediver.com/YOUR-MODEL-ID",
-    "height": 850,
-    "caption": "Parametric facade system driven by environmental conditions"
+    "shapediver": {
+    "type": "appbuilder",
+    "url": "https://appbuilder.shapediver.com/v1/main/latest/?slug=sewing-template",
+    "height": 600,
+    "caption": "Parametric facade system"
   }
 }
